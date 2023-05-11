@@ -17,6 +17,7 @@ Collaboration
 I'm always open to collaborating on exciting frontend projects. Whether it's working on a website revamp, creating a responsive design, or enhancing user experiences, I'm eager to collaborate and contribute my skills. If you have any ideas, suggestions, or questions, feel free to reach out to me at: viseeej@gmail.com
 
 Connect
+
 Let's connect and create amazing web experiences together! You can find me on https://www.linkedin.com/in/ervis-ahmeti-75a377263/. I'm excited to connect with fellow frontend developers, designers, and anyone interested in the world of web development!
 
 Looking forward to collaborating and bringing fantastic frontend projects to life!
